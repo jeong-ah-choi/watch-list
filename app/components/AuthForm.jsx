@@ -11,7 +11,7 @@ export default function AuthForm() {
       view='magic_link'
       showLinks={false}
       providers={[]}
-      redirectTo='https://watch-list-pi.vercel.app//auth/callback'
+      redirectTo='https://watch-list-pi.vercel.app/auth/callback'
       appearance={{
         theme: 'dark',
         button: {
